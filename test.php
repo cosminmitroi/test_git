@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "new modif";
+echo "new modif asdasd";
 ?>
