@@ -1,3 +1,3 @@
 <?php
-echo "other feature created";
+echo "other feature createad, new modif";
 ?>
