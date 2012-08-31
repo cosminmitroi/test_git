@@ -1,3 +1,3 @@
 <?php
-echo "new fix";
+echo "new fix,test feature modif";
 ?>
