@@ -1,3 +1,3 @@
 <?php
-echo "new class";
+echo "new class, test";
 ?>
