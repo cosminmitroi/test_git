@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "new modif asdasd";
+echo "new modif lithium";
 ?>
